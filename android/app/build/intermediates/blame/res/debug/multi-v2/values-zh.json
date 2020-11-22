@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/rad/Desktop/fisheman/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh/values-zh.xml",
+            "map": [
+                {
+                    "source": "/home/rad/.gradle/caches/transforms-2/files-2.1/d1c2bcd3addebb3b6ee93645e3603b0b/WheelPicker-1.0.3/res/values-zh/values-zh.xml",
+                    "from": {
+                        "startLines": "2,16",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,425",
+                        "endLines": "15,29",
+                        "endColumns": "19,19",
+                        "endOffsets": "420,759"
+                    }
+                }
+            ]
+        }
+    ]
+}
